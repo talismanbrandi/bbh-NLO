@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+
+  
+
+
+  <head>
+    <title>
+      bbH_4FS_ybyt_v2.6.1.tar.gz on bbH – Attachment
+     – MadGraph
+    </title>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+        <link rel="search" href="/projects/madgraph/search" />
+        <link rel="help" href="/projects/madgraph/wiki/TracGuide" />
+        <link rel="alternate" href="/projects/madgraph/raw-attachment/wiki/bbH/bbH_4FS_ybyt_v2.6.1.tar.gz" type="application/x-tar; charset=iso-8859-15" title="Original Format" />
+        <link rel="up" href="/projects/madgraph/wiki/bbH" title="bbH" />
+        <link rel="start" href="/projects/madgraph/wiki" />
+        <link rel="stylesheet" href="/projects/madgraph/chrome/common/css/trac.css" type="text/css" /><link rel="stylesheet" href="/projects/madgraph/chrome/common/css/code.css" type="text/css" />
+        <link rel="shortcut icon" href="/projects/madgraph/chrome/site/cp3blue_small.png" type="image/png" />
+        <link rel="icon" href="/projects/madgraph/chrome/site/cp3blue_small.png" type="image/png" />
+    <style id="trac-noscript" type="text/css">.trac-noscript { display: none !important }</style>
+      <link type="application/opensearchdescription+xml" rel="search" href="/projects/madgraph/search/opensearch" title="Search MadGraph" />
+      <script type="text/javascript" charset="utf-8" src="/projects/madgraph/chrome/common/js/jquery.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/projects/madgraph/chrome/common/js/babel.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/projects/madgraph/chrome/common/js/trac.js"></script>
+      <script type="text/javascript" charset="utf-8" src="/projects/madgraph/chrome/common/js/search.js"></script>
+    <script type="text/javascript">
+      jQuery("#trac-noscript").remove();
+      jQuery(document).ready(function($) {
+        $(".trac-autofocus").focus();
+        $(".trac-target-new").attr("target", "_blank");
+        setTimeout(function() { $(".trac-scroll").scrollToTop() }, 1);
+        $(".trac-disable-on-submit").disableOnSubmit();
+      });
+    </script>
+      <script type="text/javascript" src="/projects/madgraph/chrome/common/js/folding.js"></script>
+      <script type="text/javascript">
+        jQuery(document).ready(function($) {
+          $('#preview table.code').enableCollapsibleColumns($('#preview table.code thead th.content'));
+        });
+      </script>
+<!--    <link rel="stylesheet" type="text/css"
+          href="${href.chrome('/site/acct_mgr/acct_mgr.css')}" />
+    <link rel="stylesheet" type="text/css"
+          href="${href.chrome('/site/acct_mgr/acct_mgr_login.css')}" /> -->
+    <link rel="stylesheet" type="text/css" href="/projects/madgraph/chrome/site/style.css" />
+    <link rel="stylesheet" type="text/css" href="/projects/madgraph/chrome/site/local.css" />
+  </head>
+  <body>
+    <div id="siteheader">
+    </div>
+    <div id="banner">
+      <div id="header">
+        <a id="logo" href="/projects/madgraph"><img src="/projects/madgraph/chrome/site/cp3blue_53.png" alt="" /></a>
+      </div>
+      <form id="search" action="/projects/madgraph/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first"><a href="/projects/madgraph/login">Login</a></li><li><a href="/projects/madgraph/prefs">Preferences</a></li><li><a href="/projects/madgraph/wiki/TracGuide">Help/Guide</a></li><li class="last"><a href="/projects/madgraph/about">About Trac</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first active"><a href="/projects/madgraph/wiki">Wiki</a></li><li><a href="/projects/madgraph/timeline">Timeline</a></li><li class="last"><a href="/projects/madgraph/search">Search</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <ul>
+          <li class="last first"><a href="/projects/madgraph/wiki/bbH">Back to bbH</a></li>
+        </ul>
+        <hr />
+      </div>
+    <div id="content" class="attachment">
+        <h1><a href="/projects/madgraph/wiki/bbH">bbH</a>: bbH_4FS_ybyt_v2.6.1.tar.gz</h1>
+        <table id="info" summary="Description">
+          <tr>
+            <th scope="col">File bbH_4FS_ybyt_v2.6.1.tar.gz, <span title="20777365 bytes">19.8 MB</span> (added by mwiesemann, <a class="timeline" href="/projects/madgraph/timeline?from=2018-03-28T19%3A04%3A53%2B02%3A00&amp;precision=second" title="See timeline at 03/28/18 19:04:53">2 years ago</a>)</th>
+          </tr>
+          <tr>
+            <td class="message searchable">
+              <p>
+bbH in 4FS ybyt term, working with MG5_aMC_v2.6.1, same setup as before
+</p>
+
+            </td>
+          </tr>
+        </table>
+        <div id="preview" class="searchable">
+          
+    <p>
+        <strong>HTML preview not available</strong>, since the file size exceeds 2621404 bytes.
+      Try <a href="/projects/madgraph/raw-attachment/wiki/bbH/bbH_4FS_ybyt_v2.6.1.tar.gz">downloading</a> the file instead.
+    </p>
+
+        </div>
+    </div>
+    <div id="altlinks">
+      <h3>Download in other formats:</h3>
+      <ul>
+        <li class="last first">
+          <a rel="nofollow" href="/projects/madgraph/raw-attachment/wiki/bbH/bbH_4FS_ybyt_v2.6.1.tar.gz">Original Format</a>
+        </li>
+      </ul>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="http://trac.edgewall.org/"><img src="/projects/madgraph/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/projects/madgraph/about"><strong>Trac 1.0.17</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right">Visit the Trac open source project at<br /><a href="http://trac.edgewall.org/">http://trac.edgewall.org/</a></p>
+    </div>
+    <div id="sitefooter">
+    </div>
+  </body>
+</html>
