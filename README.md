@@ -1,5 +1,7 @@
 ### bbh-NLO
 
+- bbh-BDT contains the BDT (XGBoost) and DNN (TensorFlow) for signal/background discrimination.
+
 - Madgraph contains the versions 2.7.2, 2.6.1, 3.0.1 and 3.0.1_4FS
 The simulations in the [bbh page](https://cp3.irmp.ucl.ac.be/projects/madgraph/wiki/bbH#no1)
 were done with MG5 v2.6.1 in the second rivision corresponding to the numbers in
