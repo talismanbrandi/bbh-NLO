@@ -1,6 +1,0 @@
-To run AnalyzeTree.c
-
-1. Change lines 9, 10, 15 and 34.
-2. keep the root file at the same level
-3. root -c AnalyzeTree.c
-4. A csv file with all the events will be produced at the same level

@@ -5,7 +5,7 @@
 
 void AnalyzeTree()
 {
-//Change lines 9, 10, 15 and 34 if necessary. class = 1 for signal and 0 for background
+
 	TFile file("sig.root");
 	TTree* tree = (TTree*) file.Get("sig");
 	Float_t ptb1, ptb2, pta1, pta2, ptaa;
