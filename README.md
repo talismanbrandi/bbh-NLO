@@ -27,4 +27,4 @@ To run the codes:
 - move into the MG5 directory run ./bin/mg5_aMC to initialize MG5 and then quit it
 - run ./bin/generate_events [LO/NLO] to get the LO and NLO respectively.
 
-__NOTE:__ yb^2 works at NLO but ybyt works at LO only for now.
+__NOTE:__ yb^2 works at NLO but ybyt works at LO only for now. For ybyt do not use the LO/NLO flag after ./bin/generate_events
